@@ -1,7 +1,7 @@
 # Auto proxy Ghost
 ## This tool auto change proxy or ip after dealy time set by user 
 
-<image src="https://drive.google.com/file/d/1o0usbq2ienZcWibwA9T4DOSESik7uO8_/view?usp=sharing">
+<image src=""https://lh3.googleusercontent.com/rjriGeDYHG8-APZLMlRjIbkTVNswLvylpf1QY8wHlrMk8dcya4zBTc9NcR9Y-B5_q4L57Zfquy8Gyl65_ECx=w1366-h244">
 
 <H2>how to run </H2>
 <H2>1. Install required file </H2>
